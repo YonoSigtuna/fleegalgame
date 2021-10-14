@@ -1,0 +1,38 @@
+
+.out_box{
+  width: 695px;
+  height: 134px;
+  position: relative;
+  overflow: hidden;
+}
+
+.in_box{
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: -17px;
+  bottom: 0;
+  line-height:20px;
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+
+
+.out_big_box{
+  top: 0px;
+  width: 1250px;
+  height: 700px;
+  position: relative;
+  overflow: hidden;
+}
+
+.in_big_box{
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: -17px;
+  bottom: 0;
+  line-height:20px;
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
