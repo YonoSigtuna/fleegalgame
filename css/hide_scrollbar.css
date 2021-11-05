@@ -19,9 +19,9 @@
 
 
 .out_big_box{
-  top: 0px;
+  top: -20px;
   width: 1250px;
-  height: 700px;
+  height: 880px;
   position: relative;
   overflow: hidden;
 }

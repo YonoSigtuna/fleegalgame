@@ -1,0 +1,16 @@
+.video-bg {
+    display: flex;
+    justify-content: center;
+    background-color: skyblue;
+}
+
+.video-bg video {
+    position: fixed;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -100;
+    background-size: cover;
+}
